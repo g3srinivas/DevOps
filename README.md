@@ -1,2 +1,2 @@
-# Devops
+# DevOps
 Repo for Devops stuff
